@@ -5,7 +5,6 @@
 **Data Engineering Project** is an implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API.
 The pipeline infrastructure is built using popular, open-source projects.
 
-**Access the latest news and headlines in one place.** :muscle:
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -137,4 +136,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <!-- CONTACT -->
 ## Contact
 Please feel free to contact me if you have any questions.
-[Damian Kliś](https://www.linkedin.com/in/klisdamian/) [@DamianKlis](https://twitter.com/DamianKlis)
+[Gerard Bou Faysal](https://www.linkedin.com/in/gerardboufaysal/)
