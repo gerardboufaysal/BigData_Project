@@ -128,10 +128,6 @@ Contributions are what makes the open-source community such an amazing place to 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
-## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
 
 <!-- CONTACT -->
 ## Contact
